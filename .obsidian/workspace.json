@@ -11,10 +11,36 @@
             "id": "ab29991873bf1240",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "Papers/NRCAN_byram_1959.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "NRCAN_byram_1959"
+            }
+          },
+          {
+            "id": "e11bcd660c63a377",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Untitled.md"
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "b3be993ee08c6adb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
@@ -27,7 +53,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e37d02f9b1b5e82",
@@ -146,20 +174,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "4290c30dfa562f0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +207,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ab29991873bf1240",
+  "active": "4290c30dfa562f0a",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Papers/NRCAN_byram_1959.pdf",
+    "Untitled.md",
+    "Papers",
+    "Welcome.md",
+    "Papers/NRCAN_deGroot_2006_BORFIRE.pdf",
+    "Papers/NRCAN_deGroot_2002_BORFIRE.pdf",
+    "Papers/NRCAN_deGroot_2012_CANFIRE.pdf",
+    "Papers/NRCAN_hot_new_tool.pdf",
+    "Fire"
   ]
 }

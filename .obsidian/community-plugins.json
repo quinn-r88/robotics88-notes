@@ -1,7 +1,8 @@
 [
-  "pdf-plus",
   "obsidian-git",
   "folder-notes",
   "settings-search",
-  "templater-obsidian"
+  "templater-obsidian",
+  "plugins-annotations",
+  "obsidian-annotator"
 ]
