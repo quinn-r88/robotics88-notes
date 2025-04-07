@@ -4,5 +4,8 @@
   "settings-search",
   "templater-obsidian",
   "plugins-annotations",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "pdf-plus",
+  "obsidian-hover-editor",
+  "better-search-views"
 ]

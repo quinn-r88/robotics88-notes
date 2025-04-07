@@ -1,0 +1,8 @@
+- [ ] Byron 1959 full textbook
+- [ ] Flammap Papers
+	- [x] aids to determining fuel models for estimating fire behavior - hal e. anderson
+	- [ ] 
+- [ ] QuicFire papers
+- [ ] Lawson, B.D.; Armitage, O.B. 2008. **Weather Guide for the Canadian Forest Fire Danger Rating System**. Natural Resources Canada, Canadian Forest Service, Northern Forestry Centre, Edmonton, AB. 84 p.
+- [ ] Turner, J.A.; Lawson, B.D. 1978. **Weather in the Canadian Forest Fire Danger Rating System. A user guide to national standards and practices**. Environment Canada, Pacific Forest Research Centre, Victoria, BC. BC-X-177.
+- [ ] Anderson, K. 2010. A climatologically based long-range fire growth model. Int. J. Wildland Fire 19:879–894. http://www.publish.csiro.au/?act=view_file&file_id=WF09053.pdf
