@@ -12,12 +12,14 @@
             "id": "704bb13e32a59b06",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Papers/Annotated/Ager_2009_RiskAnalysis.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ager_2009_RiskAnalysis"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -202,10 +204,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "704bb13e32a59b06",
+  "active": "25c78951598744fc",
   "lastOpenFiles": [
-    "Annotations/Annotations - Ager 2009.md",
+    "README.md",
+    "Papers/Annotated/NRCAN_deGroot_2002_BORFIRE.pdf",
+    "Papers/Annotated/NRCAN_byram_1959.pdf",
     "Papers/Annotated/Ager_2009_RiskAnalysis.pdf",
+    "Annotations/Annotations - Ager 2009.md",
     "Papers/Anderson_1982_FuelModels.pdf",
     "Papers/Finney_2004_FARSITE.pdf",
     "Papers/Scott_2001_CrownFire.pdf",
@@ -219,9 +224,7 @@
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 1.md",
-    "Papers/Anderson_1982_Fuel_Models",
     "Annotations/Annotations - NRCAN deGroot 2006.md",
-    "Papers/Annotated/NRCAN_deGroot_2002_BORFIRE.pdf",
     "Annotations/Annotations - NRCAN deGroot 2002.md",
     "Annotations/Annotations - NRCAN Byron 1959.md",
     "Welcome.md"

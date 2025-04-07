@@ -1,0 +1,1 @@
+This is an Obsidian workspace - You can look at the raw markdown files it contains, but they may not always be rendered properly. To view this most correctly, open it with [obsidian](https://obsidian.md/).
